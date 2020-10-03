@@ -5,19 +5,18 @@ I'm also known as Goodnight Girl for my Youtube Tutorials on [GB Studio Music](h
 I use she/her & they/them pronouns.
 
 ## Links to my other cool places on the internet
-https://deertears.itch.io - games  
+https://deertears.itch.io/ - games  
 https://goodnightgirl.bandcamp.com - music  
 https://daryldee.bandcamp.com - other music  
 
 ## Current Projects 🕒
-- "Footy Kit Designer", a game for A Game By Its Cover 2020
+- "Footy Kit Designer", a soccer fashion game, out now! deertears.itch.io/footy-kit-designer
 - "Songs for Dudes EP", my nearly-complete punk record
 
 ## Ask me about... 💬
 - Composing for GBT Player
 - Control Nodes in Godot
 - Music Theory
-- GDScript
 - Using MilkyTracker
 - Writing Docs
 
