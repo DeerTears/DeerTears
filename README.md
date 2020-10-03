@@ -10,7 +10,7 @@ https://goodnightgirl.bandcamp.com - music
 https://daryldee.bandcamp.com - other music  
 
 ## Current Projects 🕒
-- "Footy Kit Designer", a soccer fashion game, out now! deertears.itch.io/footy-kit-designer
+- "Footy Kit Designer", a soccer fashion game, out now! https://deertears.itch.io/footy-kit-designer
 - "Songs for Dudes EP", my nearly-complete punk record
 
 ## Ask me about... 💬
