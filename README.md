@@ -1,6 +1,6 @@
 ## Hi I'm Ember! 🐦
-I use she/her & they/them pronouns.  
-I started the [GB Studio Community Assets](https://github.com/DeerTears/GB-Studio-Community-Assets) and have been working hard on updating the [GB Studio Beta Documentation.](https://github.com/deertears/gb-studio-site)  
+I use she/her & they/them pronouns. I'm a full-time student working towards a Graphic Design disploma.  
+I started the [GB Studio Community Assets](https://github.com/DeerTears/GB-Studio-Community-Assets). I've also been working hard on updating the [GB Studio Beta Documentation.](https://github.com/deertears/gb-studio-site)  
 I'm also known as Goodnight Girl for my Youtube Tutorials on [GB Studio Music](https://youtu.be/cLQ3ybY_ACA) and [.midi to .mod for GBT Player.](https://youtu.be/4AxZqK9_jKE)
 
 ## Links to my other cool places on the internet 🌐
@@ -9,10 +9,10 @@ https://goodnightgirl.bandcamp.com - chill music
 https://daryldee.bandcamp.com - not-so chill music
 
 ## Ask me about... 💬
-- Composing for GBT Player/Milkytracker
-- Control Nodes in Godot
+- Composing for GBT Player/Using a Tracker
+- GDScript and Control Nodes in Godot
 - Music Theory
-- Writing Docs
+- Writing Docs and Wikis
 
 Feel free to send me a DM on Twitter about any of these things! - https://twitter.com/goodnight_grrl
 <!--
