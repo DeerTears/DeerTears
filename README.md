@@ -1,5 +1,5 @@
 ## Hi I'm Emberlynn! 🐦
-I use she/her & they/them pronouns. I'm currently working for GDQuest as an assistant tutor. I'm also working toward graphic design diploma.
+I use she/her & they/them pronouns. I'm currently working for [GDQuest](https://www.gdquest.com/) as an assistant tutor. I'm also working toward graphic design diploma.
 
 My previous projects:
 - [GB Studio Community Assets](https://github.com/DeerTears/GB-Studio-Community-Assets)
