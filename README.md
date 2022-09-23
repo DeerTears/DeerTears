@@ -1,6 +1,8 @@
 ## Hi I'm Emberlynn! 🐦
 I use she/her & they/them pronouns.
 
+I like writing documentation with teams and making video games in Godot.
+
 [Follow me on itch](https://deertears.itch.io/) for my Godot and GB Studio games.  
 Check out [my](https://daryldee.bandcamp.com/) [bandcamps](https://goodnightgirl.bandcamp.com) to hear my music.
 
