@@ -1,7 +1,7 @@
 ## Hi I'm Emberlynn! 🐦
 I use she/her & they/them pronouns.
 
-I meander from project-to-project, right now I'm helping maintain [Qodot](https://github.com/QodotPlugin/Qodot/).
+I meander from project-to-project, right now I'm helping maintain [func_godot](https://github.com/func-godot).
 
 [Follow me on itch](https://deertears.itch.io/) for my games.  
 [Check out my bandcamp](https://goodnightgirl.bandcamp.com) for my music.
